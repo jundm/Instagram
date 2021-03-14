@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "/Users/hyeonseongjun/opt/anaconda3/envs/react-insta/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": ["--max-line-length=120"],
+  "python.linting.enabled": true,
+  "python.formatting.provider": "autopep8"
+}
